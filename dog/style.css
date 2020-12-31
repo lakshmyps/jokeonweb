@@ -1,0 +1,16 @@
+body{
+
+    text-align: center;
+    position: relative;
+}
+div{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 25px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img{
+    border: solid 5px;
+}
